@@ -19,3 +19,13 @@
 **Link(s) to work**
 
 1. [TicTacToe](https://github.com/skywalker212/TicTacToe)
+
+## Day 1: December 30, Saturday
+
+**Today's Progress**: TicTacToe game, Started working on the part which decides whether the game has completed or not.
+
+**Thoughts**: Sometimes things are not as easy as they seem.
+
+**Link(s) to work**
+
+1. [TicTacToe](https://github.com/skywalker212/TicTacToe)
