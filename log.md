@@ -20,7 +20,7 @@
 
 1. [TicTacToe](https://github.com/skywalker212/TicTacToe)
 
-## Day 1: December 30, Saturday
+## Day 2: December 31, Sunday
 
 **Today's Progress**: TicTacToe game, Started working on the part which decides whether the game has completed or not.
 
@@ -29,3 +29,13 @@
 **Link(s) to work**
 
 1. [TicTacToe](https://github.com/skywalker212/TicTacToe)
+
+## Day 3: January 1, 2018
+
+**Today's Progress**: Solved some basic algorithm problems on HackerRank.
+
+**Thoughts**: You have to work real hard, don't give up, keep trying hard, take a break, repeat.
+
+**Link(s) to work**
+
+1. [HackerRank](https://www.hackerrank,com)
