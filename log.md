@@ -8,7 +8,7 @@
 
 **Link(s) to work**
 
-1. [goober-notes](https://github.com/skywalker212/goober-notes)
+1.  [goober-notes](https://github.com/skywalker212/goober-notes)
 
 ## Day 1: December 30, Saturday
 
@@ -18,7 +18,7 @@
 
 **Link(s) to work**
 
-1. [TicTacToe](https://github.com/skywalker212/TicTacToe)
+1.  [TicTacToe](https://github.com/skywalker212/TicTacToe)
 
 ## Day 2: December 31, Sunday
 
@@ -28,7 +28,7 @@
 
 **Link(s) to work**
 
-1. [TicTacToe](https://github.com/skywalker212/TicTacToe)
+1.  [TicTacToe](https://github.com/skywalker212/TicTacToe)
 
 ## Day 3: January 1, 2018
 
@@ -39,3 +39,9 @@
 **Link(s) to work**
 
 1. [HackerRank](https://www.hackerrank,com)
+
+## Day 4: January 2, 2018
+
+**Today's Progress**: Learned about Web Data Management and Operating Systems.
+
+**Thoughts**: .
