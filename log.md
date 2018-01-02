@@ -38,7 +38,7 @@
 
 **Link(s) to work**
 
-1. [HackerRank](https://www.hackerrank,com)
+1. [HackerRank](https://www.hackerrank.com/skywalker212)
 
 ## Day 4: January 2, 2018
 
