@@ -8,7 +8,7 @@
 
 **Link(s) to work**
 
-1.  [goober-notes](https://github.com/skywalker212/goober-notes)
+1. [goober-notes](https://github.com/skywalker212/goober-notes)
 
 ## Day 1: December 30, Saturday
 
@@ -18,7 +18,7 @@
 
 **Link(s) to work**
 
-1.  [TicTacToe](https://github.com/skywalker212/TicTacToe)
+1. [TicTacToe](https://github.com/skywalker212/TicTacToe)
 
 ## Day 2: December 31, Sunday
 
@@ -28,9 +28,9 @@
 
 **Link(s) to work**
 
-1.  [TicTacToe](https://github.com/skywalker212/TicTacToe)
+1. [TicTacToe](https://github.com/skywalker212/TicTacToe)
 
-## Day 3: January 1, 2018
+## Day 3: January 1, 2018, Monday
 
 **Today's Progress**: Solved some basic algorithm problems on HackerRank.
 
@@ -40,9 +40,18 @@
 
 1. [HackerRank](https://www.hackerrank.com/skywalker212)
 
-## Day 4: January 2, 2018
+## Day 4: January 2, 2018, Tuesday
 
 **Today's Progress**: Learned about Web Data Management and Operating Systems.
 
 **Thoughts**: .
 
+## Day 5: January 3, 2018, Wednesday
+
+**Today's Progress**: Solved algorithm problems about chess on online platform. Learned about cryptography, key exchange and quantum computers.
+
+**Thoughts**: Whenever you're trying to solve a problem, try to solve it with Hash Tables first.
+
+**Link(s) to work**
+
+1. [HackerRank](https://www.hackerrank.com/skywalker212)
