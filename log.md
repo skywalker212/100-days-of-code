@@ -55,3 +55,13 @@
 **Link(s) to work**
 
 1. [HackerRank](https://www.hackerrank.com/skywalker212)
+
+## Day 6: January 4, 2018, Tuesday
+
+**Today's Progress**: Solved algorithm problems on an online platform. Learned about quantum mechanics and data mining.
+
+**Thoughts**: Keep thinking about the problem till you come up with a solution, not a brute force solution, never use a brute force solution. Brute force solutions are crap.
+
+**Link(s) to work**
+
+1. [HackerRank](https://www.hackerrank.com/skywalker212)
