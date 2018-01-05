@@ -56,7 +56,7 @@
 
 1. [HackerRank](https://www.hackerrank.com/skywalker212)
 
-## Day 6: January 4, 2018, Tuesday
+## Day 6: January 4, 2018, Thursday
 
 **Today's Progress**: Solved algorithm problems on an online platform. Learned about quantum mechanics and data mining.
 
@@ -65,3 +65,13 @@
 **Link(s) to work**
 
 1. [HackerRank](https://www.hackerrank.com/skywalker212)
+
+## Day 7: January 5, 2018, Friday
+
+**Today's Progress**: Deployed an app using docker on remote server. Learned about data science. Deployed a torrent cloud app.
+
+**Thoughts**: learn what you cant.
+
+**Link(s) to work**
+
+1. [cloud-torrent](https://github.com/jpillora/cloud-torrent)
