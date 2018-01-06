@@ -75,3 +75,13 @@
 **Link(s) to work**
 
 1. [cloud-torrent](https://github.com/jpillora/cloud-torrent)
+
+## Day 8: January 6, 2018, Saturday
+
+**Today's Progress**: Ran some scripts on Matlab. Learned about Meltdown and Spectre. Solved multiple problems on algorithms.
+
+**Thoughts**: Avoid loops while you can.
+
+**Link(s) to work**
+
+1. [HackerRank](https://www.hackerrank.com/skywalker212)
